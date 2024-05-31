@@ -1,4 +1,4 @@
-# Mullvad Ping
+# Mullvad VPN Ping
 
 ## Objective
 
