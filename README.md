@@ -12,7 +12,7 @@ To run this project using the Go CLI, please follow the steps below:
 
 2. **Clone the Repository**: Clone this repository to your local machine using Git.
     ```sh
-    git clone https://github.com/giulainobr/mullvad-ping.git
+    git clone https://github.com/giulianobr/mullvad-ping.git
     cd mullvad-ping
     ```
 
